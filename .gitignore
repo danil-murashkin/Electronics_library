@@ -1,0 +1,10 @@
+*.Annotation
+*Report*
+*.Dat
+*.SchDocPreview
+*.PcbDoc.htm
+*.log
+/__Previews*
+*/History
+*/Project Logs*
+*/Project Outputs*

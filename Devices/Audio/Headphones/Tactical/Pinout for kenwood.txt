@@ -1,0 +1,18 @@
+M12 connector 
+Look at pins and clockwise begin key
+
+Kenwood connector Jack 3.5 + Jack 2.5
+Begin by base to end of pin
+--------------------------------------
+PTT cable:
+M12.1 - J2.5.3 - Headphone
+M12.2 - J2.5.1 - Ground
+M12.3 - J3.5.1 - PTT
+M12.4 - J2.5.1 - Ground
+M12.5 - J3.5.2 - Microphone
+
+Kenwood connector:
+White  - J2.5.1
+Yellow - J2.5.3
+Shield - J3.5.1
+Red    - J3.5.2

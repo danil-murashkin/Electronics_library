@@ -1,0 +1,8 @@
+Connectors DSub
+	DS - DSub 
+	N - pins counter 
+	M,F - male female, V,H,A45 - vertical, horizontal, angle 45
+		DS-9MV
+		DS-9MH
+		DS-9FV
+		DS-9FH
