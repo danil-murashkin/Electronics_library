@@ -14,3 +14,5 @@ ProjectPath=..\Mechanical\Connectors\Interface\Altium\Connectors Interface.LibPk
 ProjectPath=..\Mechanical\Connectors\Debug\Altium\Connectors Debug.LibPkg
 [Project7]
 ProjectPath=..\Mechanical\Connectors\Atum-el\Altium\Connectors Atum-el.LibPkg
+[Project8]
+ProjectPath=..\Mechanical\Connectors\Power\Altium\Connectors Power.LibPkg
