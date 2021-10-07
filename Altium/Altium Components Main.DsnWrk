@@ -31,28 +31,26 @@ ProjectPath=Components\Sound.LibPkg
 [Project15]
 ProjectPath=Components\Switches.LibPkg
 [Project16]
-ProjectPath=..\Sensors\Motion\Altium\Sensors Motion.LibPkg
-[Project17]
 ProjectPath=..\Discrete\Capacitors\Ceramic\Altium\Capacitors Ceramic SMD.LibPkg
-[Project18]
+[Project17]
 ProjectPath=Templates\Template part\Template part.LibPkg
-[Project19]
+[Project18]
 ProjectPath=..\Interfaces\Interfaces\Interface Controllers.LibPkg
-[Project20]
+[Project19]
 ProjectPath=..\Wireless\Mobile\2G\SIM8xx\Altium\RF Modules.LibPkg
-[Project21]
+[Project20]
 ProjectPath=..\Wireless\UHF\Antennas\RF Antennas.LibPkg
-[Project22]
-ProjectPath=..\Sensors\Magnetic\Altium\Sensors Magnetic.LibPkg
-[Project23]
+[Project21]
 ProjectPath=..\Wireless\Mobile\2G\SIM8xx\Altium\RF SoC.LibPkg
-[Project24]
+[Project22]
 ProjectPath=..\Discrete\Resistors\Ceramic\Altium\Resistors Ceramic SMD.LibPkg
-[Project25]
+[Project23]
 ProjectPath=..\Mechanical\Hardware\Altium\Hardware.LibPkg
-[Project26]
+[Project24]
 ProjectPath=..\Discrete\Transistors\BJT\Altium\Transistors BJT.LibPkg
-[Project27]
+[Project25]
 ProjectPath=..\Discrete\Transistors\FET\Altium\Transistors FET.LibPkg
-[Project28]
+[Project26]
 ProjectPath=..\Interfaces\Altium\Interfaces.LibPkg
+[Project27]
+ProjectPath=Components\Sensors.LibPkg
