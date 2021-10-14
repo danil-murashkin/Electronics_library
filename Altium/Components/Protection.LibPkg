@@ -89,23 +89,6 @@ GenerateClassCluster=0
 DocumentUniqueId=ITJYQURF
 
 [Document4]
-DocumentPath=..\..\Discrete\Diodes\TVS\Altium\!Protection TVS.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=CWOOFMGO
-
-[Document5]
 DocumentPath=..\..\Power\Protection\DC\Altium\Protection DC.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -121,6 +104,23 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CPTDMRNG
+
+[Document5]
+DocumentPath=..\..\Power\Protection\TVS\Protection TVS.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=CWOOFMGO
 
 [Document6]
 DocumentPath=..\..\Power\Batteries\Protection\Altium\Battery Protection.SchLib
@@ -172,6 +172,23 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RWTCRBWD
+
+[Document9]
+DocumentPath=..\Packages\SOT.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
 
 [SearchPath1]
 Path=F:\Electrotech\3 PCB CAD\Altium Designer\MyLibrary\Power\Project Outputs for Power\Power\*.*
